@@ -45,4 +45,5 @@ end
 
 group :test do
   gem "test-unit", "3.0.9"
+  gem "mocha", "1.1.0"
 end
